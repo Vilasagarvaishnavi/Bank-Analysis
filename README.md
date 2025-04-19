@@ -1,5 +1,7 @@
 # Summary 
 ![summary](https://github.com/user-attachments/assets/ca227e29-ec5a-4cf3-a484-370338356750)
+![download (1)](https://github.com/user-attachments/assets/70ce62da-0f32-42d7-98f7-b1a40cd81a55)
+
 
 Displays key performance indicators (KPIs) such as:
 
