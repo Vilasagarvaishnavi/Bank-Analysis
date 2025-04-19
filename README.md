@@ -1,7 +1,5 @@
 # Summary 
-![summary](https://github.com/user-attachments/assets/ca227e29-ec5a-4cf3-a484-370338356750)
-![download (1)](https://github.com/user-attachments/assets/70ce62da-0f32-42d7-98f7-b1a40cd81a55)
-
+![summary](https://github.com/user-attachments/assets/34db90bf-c89d-48eb-b04f-00944ea31f96)
 
 Displays key performance indicators (KPIs) such as:
 
@@ -20,7 +18,7 @@ Highlights the proportion of Good Loans vs. Bad Loans issued.
 Loan status breakdown (Fully Paid, Charged Off, Current Loans).
 
 # Overview
-![overview](https://github.com/user-attachments/assets/dd2d9116-6e8a-486a-82ff-82901766c8c6)
+![overveiw](https://github.com/user-attachments/assets/92e337f1-0f87-4486-9b63-5f786586a94c)
 
 Loan application trends over time (monthly trends visualization).
 
@@ -37,7 +35,7 @@ Loan purpose (debt consolidation, credit card, home improvement, etc.)
 Home ownership type (Rent vs. Mortgage).
 
 # Details 
-![details](https://github.com/user-attachments/assets/7e53a5c0-685b-4825-a1f2-dc00e3d1624d)
+![details](https://github.com/user-attachments/assets/b5ae3538-78d6-4472-bdfc-70ee7aaeec8b)
 
 A detailed tabular breakdown of loan applications with:
 
